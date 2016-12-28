@@ -1,1 +1,1 @@
-# osero
+# oseroオセロです
